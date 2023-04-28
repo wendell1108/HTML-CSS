@@ -1,0 +1,16 @@
+
+*{
+    height:auto;
+}
+body{
+   background-image: radial-gradient(circle, #EF8422,#A012A4,#CA037A,#F2B63C,#E34F4F  );
+}
+h1{
+    background-color: rgb(56, 165, 42);
+    color: rgb(187, 255, 0);
+}
+p{
+    background-color: yellow;
+    text-align: center;
+    color: #E7A33E;
+}
